@@ -1,0 +1,68 @@
+<link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic|Open+Sans:300,400,500,700|Waiting+for+the+Sunrise|Shadows+Into+Light' rel='stylesheet' type='text/css'>
+
+<div class="wrapper clearfix">
+  <div class="left">
+
+    <div class="name-hero">
+
+      <div class="me-img"></div>
+
+      <div class="name-text">
+
+        <h1>Bhumika <em>Kashyap</em></h1>
+        <p> .Net Developer 1 Yr + Exp</p>
+        <p>aashikashyap5477@gmail.com</p>
+        
+        
+
+      </div>
+
+    </div>
+
+  </div>
+  <div class="right">
+
+    <div class="inner">
+      <section>
+        <h1>Experience</h1>
+        <p>Feb 2025 - Present | <em>Tradologie, Noida | Software Engineer</em></p>
+        <p> Developing Responsive Web Design , Applying Node.js and MongoDB Concepts  </p>
+        <p>Soft Skills: Team collaboration, Problem-solving, Attention to detail, Communication</p>
+          
+        <p>May 2024 - Feb 2025 | <em>Sahind Technologies. | .Net Developer</em></p>
+        <p>Visual Studio – Code navigation, extensions, debugging
+        <p>SQL – Stored procedures, joins, indexes </p>
+        <p>JavaScript , .NET Core , HTML5 & CSS3 , C# </p>
+
+
+          </p>
+        
+      </section>
+      <section>
+        <h1>Technical Skills</h1>
+        <ul class="skill-set">
+          <li>ASP.NET</li>
+          <li>SQL</li>
+          <li>JavaScript</li>
+          <li>Node.Js</li>
+          <li>HTML5</li>
+          <li>CSS3</li>
+          <li>MongoDB</li>
+          <li>Frontend</li>
+          <li>Backend</li>
+          <li>C#</li>
+          <li>Software Design</li>
+          <li>ASP.NET Web API</li>
+          <li>Responsive Web Design</li>
+        </ul>
+      </section>
+      <section>
+        <div class="handmade">
+          <p>handmade by <em> Bhumika Kashyap</em></p>
+        </div>
+      </section>
+    </div>
+
+  </div>
+
+</div>
